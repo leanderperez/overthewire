@@ -9,3 +9,5 @@
 	echo "==QcCtmMml1ViV3b" | rev
 	b3ViV1lmMmtCcQ==
 9: Sda6t0vkOPkM8YeOZkAGVhFoaplvlJFd
+	ooooo dictionary.txt; cat /etc/natas_webpass/natas10;
+10:D44EcsFkLxPIkAAKLosx8z3hxX1Z4MCE
