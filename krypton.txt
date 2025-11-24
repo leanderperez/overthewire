@@ -1,0 +1,14 @@
+Krypton3: CAESARISEASY
+
+
+Krypton2: LEVEL TWO PASSWORD ROTTEN
+Caesar Cypher
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+M N O P Q R S T U V W X Y Z A B C D E F G H I J K L
+echo "OMQEMDUEQMEK" | tr 'M-ZA-L' 'A-Z'
+
+krypton1: KRYPTONISGREAT
+Rot13
+
+Krypton0:
+base64
